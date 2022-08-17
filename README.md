@@ -1,2 +1,3 @@
-# art
-Public branding assets for BoneSwap products
+# Art
+
+This repository contains branding assets for BoneSwap.
